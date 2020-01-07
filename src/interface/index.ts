@@ -42,3 +42,5 @@ class CrazyClass implements Crazy {
 
 const crazy = new CrazyClass();
 console.log("crazy", crazy);
+
+export default null;

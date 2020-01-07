@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 /**
  * 可调用类型
  * 函数也是一种可调用类型
@@ -15,3 +17,4 @@ var arrowTest = function () { return 12313; };
 // 使用
 // declare const Foo: CallMeWithNewToGetString;
 // const bar = new Foo(); // bar 被推断为 string 类型
+exports.default = null;

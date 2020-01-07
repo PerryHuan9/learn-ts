@@ -61,3 +61,5 @@ const middleHand: MiddleHand = a => Number(a);
 console.log("result:", middleHand(123.234));
 console.log("result:", middleHand("123.234"));
 console.log("longHand:", longHand("123.234").toFixed(12));
+
+export default null;

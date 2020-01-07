@@ -26,3 +26,6 @@ let str = "12312"; // str被推断为string类型
 // str = 12312 报错，12312不是string类型
 // str = 12312 as string;  报错，number类型不能断言为string类型
 str = (12312 as any) as string;
+
+// 如果在模块没有使用export语句，那么这个模块内定义的变量将会是全局变量
+export default null;

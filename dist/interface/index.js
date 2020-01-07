@@ -27,3 +27,4 @@ var CrazyClass = /** @class */ (function () {
 }());
 var crazy = new CrazyClass();
 console.log("crazy", crazy);
+exports.default = null;

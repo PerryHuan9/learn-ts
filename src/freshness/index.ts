@@ -25,3 +25,5 @@ function printPeople(people: People) {
 }
 
 printPeople({ name: "Perry", age: 12, sex: "Man", address: "深圳" });
+
+export default null;

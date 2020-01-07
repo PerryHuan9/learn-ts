@@ -1,7 +1,9 @@
+"use strict";
 /**
  * 学习枚举 enum
  *
  */
+Object.defineProperty(exports, "__esModule", { value: true });
 var Color;
 (function (Color) {
     Color[Color["Red"] = 0] = "Red";
@@ -64,3 +66,4 @@ var Weekday;
     Weekday[Weekday["Saturday"] = 5] = "Saturday";
     Weekday[Weekday["Sunday"] = 6] = "Sunday";
 })(Weekday || (Weekday = {}));
+exports.default = null;

@@ -58,7 +58,7 @@ namespace PersonType {
   }
 }
 
-const Marry = PersonType.old;
+const Marry: PersonType = PersonType.old;
 console.log(PersonType.isOld(Marry));
 
 // 枚举定义拆分
@@ -75,3 +75,5 @@ enum Weekday {
   Saturday,
   Sunday
 }
+
+export default null;

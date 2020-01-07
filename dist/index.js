@@ -6,5 +6,7 @@ require("./enum");
 require("./function");
 require("./callable");
 require("./freshness");
+require("./typeProtect");
+require("./literal");
 // console.log("reconsole:", mGlobal);
 // process.hello("黄益凛");
