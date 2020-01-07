@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+require("./declare");
+require("./interface");
+require("./enum");
+require("./function");
+require("./callable");
+require("./freshness");
+// console.log("reconsole:", mGlobal);
+// process.hello("黄益凛");

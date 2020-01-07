@@ -1,0 +1,10 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "target": "ES5",
+    "charset": "utf-8",
+    "baseUrl": ".",
+    "outDir": "dist/"
+  },
+  "include": ["src", "@types"]
+}
