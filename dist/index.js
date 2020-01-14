@@ -8,5 +8,7 @@ require("./callable");
 require("./freshness");
 require("./typeProtect");
 require("./literal");
+require("./readonly");
+require("./genericity");
 // console.log("reconsole:", mGlobal);
 // process.hello("黄益凛");

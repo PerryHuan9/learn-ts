@@ -5,6 +5,7 @@ import { type } from "os";
  * readonly用来让属性只可读
  *
  */
+export default null;
 
 //  1、通过内联注解使用readonly
 const hello: { readonly name: string; age: number } = {
