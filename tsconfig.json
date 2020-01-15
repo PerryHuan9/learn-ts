@@ -5,6 +5,7 @@
     "charset": "utf-8",
     "baseUrl": ".",
     "outDir": "dist/",
+    "noImplicitThis": true
   },
   "include": ["src", "@types"]
 }

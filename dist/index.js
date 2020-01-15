@@ -10,5 +10,7 @@ require("./typeProtect");
 require("./literal");
 require("./readonly");
 require("./genericity");
+require("./movingType");
+require("./thisType");
 // console.log("reconsole:", mGlobal);
 // process.hello("黄益凛");
